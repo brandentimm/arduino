@@ -1,0 +1,5 @@
+# Hashes of file build rules.
+1bbe00858184c30c7d61c08ed8bd03e1 CMakeFiles/blink5-burn
+9478fb0146066ae60d82bd61c4f0b2e4 CMakeFiles/blink5-size
+a72e0bb88991f49dde69f25616debd0c CMakeFiles/blink5-upload
+7f5bfe5ccaa818a35920bcec5376c3d1 blink5_blink5.ino.cpp

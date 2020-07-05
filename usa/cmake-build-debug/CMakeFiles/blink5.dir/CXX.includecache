@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/btimm/arduino/blink5/cmake-build-debug/blink5_blink5.ino.cpp
+Arduino.h
+-
+Arduino.h
+/home/btimm/arduino/blink5/cmake-build-debug/Arduino.h
+

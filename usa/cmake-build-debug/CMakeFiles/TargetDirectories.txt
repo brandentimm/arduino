@@ -1,0 +1,8 @@
+/home/btimm/arduino/blink5/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/btimm/arduino/blink5/cmake-build-debug/CMakeFiles/blink5-burn.dir
+/home/btimm/arduino/blink5/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/btimm/arduino/blink5/cmake-build-debug/CMakeFiles/upload.dir
+/home/btimm/arduino/blink5/cmake-build-debug/CMakeFiles/blink5-size.dir
+/home/btimm/arduino/blink5/cmake-build-debug/CMakeFiles/blink5.dir
+/home/btimm/arduino/blink5/cmake-build-debug/CMakeFiles/mega_CORE.dir
+/home/btimm/arduino/blink5/cmake-build-debug/CMakeFiles/blink5-upload.dir

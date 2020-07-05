@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="blink5" targetName="blink5-burn" />
+      <config projectName="blink5" targetName="blink5-size" />
+      <config projectName="blink5" targetName="upload" />
+      <config projectName="blink5" targetName="mega_CORE" />
+      <config projectName="blink5" targetName="blink5" />
+      <config projectName="blink5" targetName="blink5-upload" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a8526615-c82f-4222-bdbc-ca86c8e07d8f" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="ProjectId" id="1eF04QOXPeT2HdgkoKfAONyNGjY" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="cf.first.check.clang-format" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a8526615-c82f-4222-bdbc-ca86c8e07d8f" name="Default Changelist" comment="" />
+      <created>1593901841103</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1593901841103</updated>
+      <workItem from="1593901842711" duration="4249000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="582" y="738" width="745" height="718" key="#blink5-upload" timestamp="1593901889455">
+      <screen x="0" y="27" width="3840" height="2133" />
+    </state>
+    <state x="582" y="738" width="745" height="718" key="#blink5-upload/0.27.3840.2133@0.27.3840.2133" timestamp="1593901889455" />
+    <state x="721" y="745" width="468" height="704" key="#com.intellij.ide.util.MemberChooser" timestamp="1593905203551">
+      <screen x="0" y="27" width="3840" height="2133" />
+    </state>
+    <state x="721" y="745" width="468" height="704" key="#com.intellij.ide.util.MemberChooser/0.27.3840.2133@0.27.3840.2133" timestamp="1593905203551" />
+    <state x="655" y="820" width="599" height="554" key="ArduinoSupport.ProjectBuildSettingsDialog" timestamp="1593901880397">
+      <screen x="0" y="27" width="3840" height="2133" />
+    </state>
+    <state x="655" y="820" width="599" height="554" key="ArduinoSupport.ProjectBuildSettingsDialog/0.27.3840.2133@0.27.3840.2133" timestamp="1593901880397" />
+    <state width="1868" height="609" key="GridCell.Tab.0.bottom" timestamp="1593905483873">
+      <screen x="0" y="27" width="3840" height="2133" />
+    </state>
+    <state width="1868" height="609" key="GridCell.Tab.0.bottom/0.27.3840.2133@0.27.3840.2133" timestamp="1593905483873" />
+    <state width="1868" height="609" key="GridCell.Tab.0.center" timestamp="1593905483872">
+      <screen x="0" y="27" width="3840" height="2133" />
+    </state>
+    <state width="1868" height="609" key="GridCell.Tab.0.center/0.27.3840.2133@0.27.3840.2133" timestamp="1593905483872" />
+    <state width="1868" height="609" key="GridCell.Tab.0.left" timestamp="1593905483872">
+      <screen x="0" y="27" width="3840" height="2133" />
+    </state>
+    <state width="1868" height="609" key="GridCell.Tab.0.left/0.27.3840.2133@0.27.3840.2133" timestamp="1593905483872" />
+    <state width="1868" height="609" key="GridCell.Tab.0.right" timestamp="1593905483873">
+      <screen x="0" y="27" width="3840" height="2133" />
+    </state>
+    <state width="1868" height="609" key="GridCell.Tab.0.right/0.27.3840.2133@0.27.3840.2133" timestamp="1593905483873" />
+    <state x="339" y="641" key="SettingsEditor" timestamp="1593901915395">
+      <screen x="0" y="27" width="3840" height="2133" />
+    </state>
+    <state x="339" y="641" key="SettingsEditor/0.27.3840.2133@0.27.3840.2133" timestamp="1593901915395" />
+    <state x="736" y="845" width="438" height="504" key="refactoring.ChangeSignatureDialog" timestamp="1593905314967">
+      <screen x="0" y="27" width="3840" height="2133" />
+    </state>
+    <state x="736" y="845" width="438" height="504" key="refactoring.ChangeSignatureDialog/0.27.3840.2133@0.27.3840.2133" timestamp="1593905314967" />
+  </component>
+</project>
